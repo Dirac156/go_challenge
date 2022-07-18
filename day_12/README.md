@@ -17,18 +17,18 @@ a b c
 e f g
 There are  hourglasses in , and an hourglass sum is the sum of an hourglass' values.
 
-Task
+### Task
 Calculate the hourglass sum for every hourglass in , then print the maximum hourglass sum.
 
-Example
+### Example
 
 In the array shown above, the maximum hourglass sum is  for the hourglass in the top left corner.
 
-Input Format
+### Input Format
 
 There are  lines of input, where each line contains  space-separated integers that describe the 2D Array .
 
-Constraints
+### Constraints
 
 Output Format
 
